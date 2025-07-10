@@ -28,3 +28,4 @@ export default function RootLayout({
     </html>
   );
 }
+// This is the root layout for your Next.js application.
